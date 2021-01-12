@@ -1,0 +1,13 @@
+C:\Users\sniqq\Desktop\Time\TimeTimePeriod\bin\Debug\netcoreapp3.1\TimeTimePeriod.exe
+C:\Users\sniqq\Desktop\Time\TimeTimePeriod\bin\Debug\netcoreapp3.1\TimeTimePeriod.deps.json
+C:\Users\sniqq\Desktop\Time\TimeTimePeriod\bin\Debug\netcoreapp3.1\TimeTimePeriod.runtimeconfig.json
+C:\Users\sniqq\Desktop\Time\TimeTimePeriod\bin\Debug\netcoreapp3.1\TimeTimePeriod.runtimeconfig.dev.json
+C:\Users\sniqq\Desktop\Time\TimeTimePeriod\bin\Debug\netcoreapp3.1\TimeTimePeriod.dll
+C:\Users\sniqq\Desktop\Time\TimeTimePeriod\bin\Debug\netcoreapp3.1\TimeTimePeriod.pdb
+C:\Users\sniqq\Desktop\Time\TimeTimePeriod\obj\Debug\netcoreapp3.1\TimeTimePeriod.csprojAssemblyReference.cache
+C:\Users\sniqq\Desktop\Time\TimeTimePeriod\obj\Debug\netcoreapp3.1\TimeTimePeriod.AssemblyInfoInputs.cache
+C:\Users\sniqq\Desktop\Time\TimeTimePeriod\obj\Debug\netcoreapp3.1\TimeTimePeriod.AssemblyInfo.cs
+C:\Users\sniqq\Desktop\Time\TimeTimePeriod\obj\Debug\netcoreapp3.1\TimeTimePeriod.csproj.CoreCompileInputs.cache
+C:\Users\sniqq\Desktop\Time\TimeTimePeriod\obj\Debug\netcoreapp3.1\TimeTimePeriod.dll
+C:\Users\sniqq\Desktop\Time\TimeTimePeriod\obj\Debug\netcoreapp3.1\TimeTimePeriod.pdb
+C:\Users\sniqq\Desktop\Time\TimeTimePeriod\obj\Debug\netcoreapp3.1\TimeTimePeriod.genruntimeconfig.cache
